@@ -34,4 +34,4 @@ The code is divided into several packages, each responsible for a different aspe
 ## Package Functions
 - none
 ## Variable Naming Conventions
-- k*** none
+- none
